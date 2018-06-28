@@ -1,4 +1,4 @@
-# DAND-term1-Project_US-bikeshare
+# DAND_term1_Project_US_bikeshare
 
 US Bikeshare project ws completed under certification of [Udacity Nanodegree Program](https://classroom.udacity.com)
 
