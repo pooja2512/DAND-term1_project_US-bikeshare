@@ -15,7 +15,7 @@ User was then provided with
 - Common start station
 - Common End station
 - Frequent combinations of Start and End stations
-- Trip Dusrations
+- Trip Durations
 - User statistics
 - Recent,Common,Most Earliest Birth Years
 - Visualizations
